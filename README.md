@@ -1,2 +1,1 @@
-# animated-envelope-design
-Animated Envelope Design
+# Animated Envelope Design
